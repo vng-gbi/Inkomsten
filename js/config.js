@@ -38,7 +38,7 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://vng-gbi.github.io/Normafwijking",
+  github: "https://github.com/vng-gbi/Inkomsten.git",
 
   //  maxTocLevel: 2,
 
